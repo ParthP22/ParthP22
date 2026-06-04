@@ -1,0 +1,4 @@
+- Hey there, I'm Parth!
+- I recently graduated from Stockton University with a double major in Computer Science and Mathematics, earning a 4.0 GPA and Summa Cum Laude honors.
+- My skills include web development, numerical analysis, artificial intelligence, automata theory, and more.
+- You can reach me at <a email="parthpatel0422@gmail.com">parthpatel0422@gmail.com</a>.
